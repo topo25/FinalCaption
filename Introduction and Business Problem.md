@@ -1,0 +1,7 @@
+A car accident, also referred to as a “traffic collision,” or a “motor vehicle accident,” occurs when a motor vehicle strikes or collides another vehicle, a stationary object, a pedestrian, or an animal. While some car accidents result only in property damage, others result in severe injuries or death. There are many factors that can contribute to car accidents, and sometimes such accidents have legal consequences.
+
+A car accident takes place when a car, truck, or bus, or other motorized vehicle hits another vehicle, person, or object, such as a tree or power pole. Car accidents have serious consequences including property damage, injury, and death, all of which are likely to cost someone a lot of money.
+
+Generally speaking there are several consequences for Car accident to occur as mentioned above such as injury, car damage, property damage and the worst could be the death but for the sake of this analysis, we will focus only on two types namely Injury Collision and Property damage.
+Since Car incident are common occurence and can conduct to very big losses, data can help to prevent the car incident classified by it severity and this can be usefull to improve qualities of the roads, build sofiticated automobiles and also help to descreasce insurance cost etc...
+The objective of this analysis is to predict the severity of a car incident for sake of prevention and savings for the community. 
